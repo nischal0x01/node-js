@@ -1,0 +1,8 @@
+### getting the / website
+GET http://localhost:3000/
+
+### getting the /dashboard website
+GET http://localhost:3000/dashboard
+
+### getting the /api/data
+GET http://localhost:3000/api/data
